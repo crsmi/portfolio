@@ -8,8 +8,12 @@ These are guided projects that I have worked on through the [DataQuest](http://w
 - [Answering Business Questions Using SQL](../../../dataquest-projects/blob/master/Guided%20Projects/Answering%20Business%20Questions%20Using%20SQL/Basics.ipynb)
 
   Intermediate SQL project. Write complex queries to explore the Chinook Database, create visualizations based on the queries, and gain   insight into the ficticious music store.
-  
-- [Predicting Car Prices](../../../dataquest-projects/blob/master/Guided%20Projects/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb) 
+
+- [Designing and Creating a Database](../../../dataquest-projects/blob/master/Guided%20Projects/Designing%20and%20Creating%20a%20Database/Basics.ipynb)
+
+    Intermediate SQL project. Using data on major league baseball from [Retrosheet](http://www.retrosheet.org/) create a manageable, normalized SQL database of all games from 1871-2016.
+
+- [Predicting Car Prices](../../../dataquest-projects/blob/master/Guided%20Projects/Predicting%20Car%20Prices/Predicting%20Car%20Prices.ipynb)
 
   Machine Learning Fundamentals project. Train and test K-Nearest Neighbors models on a data set of car features to predict price.
 
