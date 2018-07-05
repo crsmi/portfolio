@@ -1,6 +1,14 @@
 # Collin R Smith
 A list of projects I have worked on.
 
+## Personal projects
+
+- [Applying Elo Ratings to the American Ultimate Disc League (AUDL)]()
+
+  Inspired by an article on [FiveThirtyEight](https://projects.fivethirtyeight.com/complete-history-of-the-nba), I apply the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) to the AUDL, a professional ultimate league created in 2012.
+
+  This project involves web scraping, application of a statistical model, data analysis and data visualization. I have utilized the data model created in this project to win two weekly competitions on [AUDL Pick'Em](http://audlpicks.com) and am currently the overall leader.
+
 ## DataQuest Projects
 
 These are guided projects that I have worked on through the [DataQuest](http://www.dataquest.io) platform. I have earned a [Data Analyst Certificate](https://www.dataquest.io/view_cert/GZELEICN10D6CCSNON26/) through this platform and am working on the Data Science certificate.
