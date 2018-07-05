@@ -3,7 +3,7 @@ A list of projects I have worked on.
 
 ## Personal projects
 
-- [Applying Elo Ratings to the American Ultimate Disc League (AUDL)]()
+- [Applying Elo Ratings to the American Ultimate Disc League (AUDL)](../../../audl-elo)
 
   Inspired by an article on [FiveThirtyEight](https://projects.fivethirtyeight.com/complete-history-of-the-nba), I apply the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) to the AUDL, a professional ultimate league created in 2012.
 
